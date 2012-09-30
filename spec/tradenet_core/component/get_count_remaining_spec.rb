@@ -1,4 +1,4 @@
-require 'tradenet_spec_helper'
+require 'spec_helper'
 
 describe "#GetCountRemaining", ssws: true, component: true do
   let(:credentials) { load_credentials(@endpoint) }

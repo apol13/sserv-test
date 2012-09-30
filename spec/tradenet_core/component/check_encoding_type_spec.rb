@@ -1,4 +1,4 @@
-require 'tradenet_spec_helper'
+require 'spec_helper'
 
 describe "#Check Encoding Type", ssws: true, component: true do
   let(:credentials) { load_credentials(@endpoint) }

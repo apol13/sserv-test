@@ -1,5 +1,5 @@
 --require spec_helper
 --format Fuubar
---colour
+--color
 --profile
 --drb
