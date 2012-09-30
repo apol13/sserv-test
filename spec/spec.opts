@@ -1,0 +1,7 @@
+require 'watir-webdriver'
+require 'rspec'
+
+require '../../lib/net_http'
+require '../../lib/pages/login'
+require '../../lib/pages/registration'
+
